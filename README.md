@@ -4,6 +4,10 @@
 A  collection of hardware s that aid in red team operations. This repository will help you during red team engagement. If you want to contribute to this list send me a pull request.
 
 ---
+![Main](https://github.com/ismailtasdelen/redteam-hardware-toolkit/blob/master/img/main.jpeg)
+
+---
+
 A Red Team should be formed with the intention of identifying and assessing vulnerabilities, testing assumptions, viewing alternate options for attack and revealing the limitations and security risks for that organization. 
 
 There are many benefits to Red Teaming. First, you have a designated group with tactical experience in challenging the security of your organization at all times. This is important to see how your organization will fair against the very same tactics adversaries will hope to deploy on your environment. An effective Red Team: 
